@@ -1,0 +1,22 @@
+{
+  "name": "ZYKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZYKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wuzhengzheng/ZYKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuzhengzheng": "408174520@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wuzhengzheng/ZYKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZYKit/Classes/**/*"
+}
